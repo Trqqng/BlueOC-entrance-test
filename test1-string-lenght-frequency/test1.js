@@ -35,5 +35,4 @@ function runUnitTests() {
     });
 }
 
-// Run the unit tests
 runUnitTests();
