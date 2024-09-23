@@ -2,7 +2,6 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/task3-react-redux-application" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/task3-react-redux-application/react-redux-posts" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/task3/task3-react-redux-application/react-redux-posts" vcs="Git" />
   </component>
 </project>
